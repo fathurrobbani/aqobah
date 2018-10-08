@@ -1,0 +1,4 @@
+changelog :
+- drop field tot_hrglap from transaksi_lapangan
+- change length of password from 30 to 50 in pengguna
+- tgl_transaksi change to date (input from controller)

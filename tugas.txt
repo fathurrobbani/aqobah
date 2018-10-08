@@ -1,0 +1,17 @@
+pecah sidebar, header, footer
+
+modules->layout->controllers
+modules->layout->views
+
+copy paste ->http://localhost/AdminLTE-master/pages/tables/data.html
+
+
+
+
+copy tampilan data
+
+
+buat memangil dalam controller
+this->layout
+
+<?php include '/../../layout/aside.php'; ?>
